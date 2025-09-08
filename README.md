@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anudeep00-7/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/anudeep00-7/Leet_Code/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

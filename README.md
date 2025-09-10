@@ -6,9 +6,11 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anudeep00-7/Leet_Code/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/anudeep00-7/Leet_Code/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/anudeep00-7/Leet_Code/tree/master/0204-count-primes) |
 | [2058-concatenation-of-array](https://github.com/anudeep00-7/Leet_Code/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -45,4 +47,12 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/anudeep00-7/Leet_Code/tree/master/0058-length-of-last-word) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anudeep00-7/Leet_Code/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anudeep00-7/Leet_Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

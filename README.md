@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anudeep00-7/Leet_Code/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/anudeep00-7/Leet_Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/anudeep00-7/Leet_Code/tree/master/0204-count-primes) |
 ## Array
 |  |

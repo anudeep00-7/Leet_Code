@@ -22,6 +22,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anudeep00-7/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anudeep00-7/Leet_Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/anudeep00-7/Leet_Code/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -56,4 +57,16 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anudeep00-7/Leet_Code/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/anudeep00-7/Leet_Code/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/anudeep00-7/Leet_Code/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/anudeep00-7/Leet_Code/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

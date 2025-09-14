@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anudeep00-7/Leet_Code/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/anudeep00-7/Leet_Code/tree/master/0204-count-primes) |
 | [2058-concatenation-of-array](https://github.com/anudeep00-7/Leet_Code/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -64,9 +65,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anudeep00-7/Leet_Code/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/anudeep00-7/Leet_Code/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anudeep00-7/Leet_Code/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anudeep00-7/Leet_Code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

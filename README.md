@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anudeep00-7/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anudeep00-7/Leet_Code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anudeep00-7/Leet_Code/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/anudeep00-7/Leet_Code/tree/master/0204-count-primes) |
@@ -84,9 +85,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anudeep00-7/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anudeep00-7/Leet_Code/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anudeep00-7/Leet_Code/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/anudeep00-7/Leet_Code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

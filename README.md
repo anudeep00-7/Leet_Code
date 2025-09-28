@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/anudeep00-7/Leet_Code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anudeep00-7/Leet_Code/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/anudeep00-7/Leet_Code/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/anudeep00-7/Leet_Code/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/anudeep00-7/Leet_Code/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -78,10 +79,12 @@
 | ------- |
 | [0075-sort-colors](https://github.com/anudeep00-7/Leet_Code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anudeep00-7/Leet_Code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anudeep00-7/Leet_Code/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anudeep00-7/Leet_Code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anudeep00-7/Leet_Code/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |

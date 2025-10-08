@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anudeep00-7/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/anudeep00-7/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anudeep00-7/Leet_Code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anudeep00-7/Leet_Code/tree/master/0169-majority-element) |
@@ -68,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anudeep00-7/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/anudeep00-7/Leet_Code/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/anudeep00-7/Leet_Code/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anudeep00-7/Leet_Code/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/anudeep00-7/Leet_Code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

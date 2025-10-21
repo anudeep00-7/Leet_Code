@@ -65,6 +65,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anudeep00-7/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/anudeep00-7/Leet_Code/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anudeep00-7/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/anudeep00-7/Leet_Code/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
